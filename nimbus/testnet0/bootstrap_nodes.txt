@@ -1,0 +1,1 @@
+{"peer":"16Uiu2HAmTExzgvR5UMXFU7w156GNeAeppVuBKpTKGaorSJbgZz7F","addresses":["/ip4/0.0.0.0/tcp/50000"]}
